@@ -35,6 +35,7 @@ android {
     defaultConfig {
         minSdkVersion 16
     }
+    namespace 'com.ril.pdf_merger'
 }
 
 dependencies {
